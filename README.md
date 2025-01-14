@@ -18,7 +18,7 @@ The experimental data for this study on A2 noradrenergic neuron activation were 
 - [Research Article on ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0031938421002018)
 
 ### Data Analysis
-The data analysis was conducted by Gitika Bhardwaj and Tyla Dolezel at Rush University, utilizing the R programming language. We applied sophisticated statistical methods to uncover underlying patterns and reach meaningful conclusions regarding the activation of dopamine β-hydroxylase (DbH) neurons under fear conditioning stimuli.
+The data analysis was conducted by Damilola Oke-Samuel and Tyla Dolezel at Rush University, utilizing the R programming language. We applied sophisticated statistical methods to uncover underlying patterns and reach meaningful conclusions regarding the activation of dopamine β-hydroxylase (DbH) neurons under fear conditioning stimuli.
 
 ## Project Structure
 - **/data/**: Contains instructions and links for accessing the datasets used in the analyses. Data collection was performed at Florida State University, with further details and findings available in the linked research article.
